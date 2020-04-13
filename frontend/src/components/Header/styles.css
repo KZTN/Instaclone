@@ -1,0 +1,17 @@
+header#main-header {
+  backgound: #fff;
+  height: 72px;
+  border-bottom: 1px solid #ddd;
+}
+
+header#main-header .header-content {
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  height: 72px;
+  padding: 20px;
+
+  display: flex;
+  align-itens: center;
+  justify-content: space-between;
+}
